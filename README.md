@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @itsmebleuh
+- 👋 Hi, I’m @ilenanaa
 - 👀 I’m interested in videogames, DIY and music !
-- 🌱 I’m currently learning programmation, i'm really new at this haha :D
-- 💞️ I’m hoping to create big programs and have mine going to ISS one day
-- 📫 How to reach me urswagbro#5508 is my discord if u want to talk
+- 🌱 I’m currently learning programmation, i'm getting there slowly but surely :D
+- 💞️ I’m working to become a data scientist
+- 📫 How to reach me : ilenanaa on discord
 
 <!---
 itsmebleuh/itsmebleuh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
